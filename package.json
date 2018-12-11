@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "problem1": "node problem1.js",
+    "problem2": "node problem2.js",
+    "problem3": "node problem3.js"
+  },
+  "author": "Ahmed GRISSA",
+  "license": "ISC"
+}
