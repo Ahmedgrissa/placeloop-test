@@ -41,7 +41,6 @@ const addTime = (daysSelected, hoursToAdd) => {
                 let timeZoneRequestedIsAvailable = checkIfTimeZoneRequestedIsAvailable(day);
                 if (timeZoneRequestedIsAvailable) {
                     openingHours[day].push(hoursToAdd);
-                    // sortDateTimeZones(openingHours[day]);
                 }
             }
         }
